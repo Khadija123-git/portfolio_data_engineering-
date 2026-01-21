@@ -30,7 +30,7 @@ Bienvenue sur mon portfolio de projets Data Engineering réalisés dans le cadre
 
 ---
 
-### 5️⃣ [Lakehouse Streaming Analytics](https://github.com/Khadija123-git/projet_lakehouse_streaming_analytics)
+### 5️⃣ [Lakehouse Streaming Analytics](https://github.com/Khadija123-git/tp_lakehouse_modern_deltalake_dbt_airflow)
 **Technologies** : Spark, Delta Lake, Kafka, dbt, Airflow, Great Expectations  
 **Description** :  Architecture Lakehouse pour traitement batch et streaming en temps réel.
 
@@ -52,7 +52,7 @@ Bienvenue sur mon portfolio de projets Data Engineering réalisés dans le cadre
 
 ---
 
-## Membre
+## Membres du groupe
 - Khadija Nachid Idrissi
 - Rajae Fdili
 - Aya Hamim 
