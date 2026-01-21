@@ -36,7 +36,7 @@ Bienvenue sur mon portfolio de projets Data Engineering réalisés dans le cadre
 
 ---
 
-### 6️⃣ [Weather Data Pipeline](https://github.com/Khadija123-git/projet_weather_data_pipeline)
+### 6️⃣ [Weather Data Pipeline](https://github.com/Khadija123-git/projet_weather_pipeline_meteo)
 **Technologies** : Python, Kafka, AWS S3, Snowflake, dbt, Grafana, Streamlit  
 **Description** : Pipeline de collecte et traitement de données météorologiques en temps réel.
 
